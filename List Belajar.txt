@@ -1,3 +1,5 @@
 List Belajar
   * Git
+  Belajar Githu & GitLab
   * JavaScript
+  Belajar Basik JavaScript
